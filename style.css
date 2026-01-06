@@ -1,0 +1,53 @@
+.btnc{
+    background-color: #5fcac7 ;
+    border-radius: 20px;
+
+
+
+}
+.fh{
+    font-size: 450%;
+    
+}
+.fp{
+    font-size: 250%;
+}
+
+.btnc2{
+    border-radius: 30px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.border{
+    border-radius: 15px;
+    
+}
+
+.bg2{
+    background-image: url(image/backgrouand2.jpg);
+    
+}
+.ho{
+    font-size: 400%;
+    color: #4b4342;
+}
+
+@media screen and (max-width:767px) {
+    .fh{
+        font-size: larger;
+    }
+    .fp{
+        font-size: 10px;
+        padding-right: 15px;
+        
+    }
+    .btnc2{
+        font-size: large;
+    }
+    
+    .ho{
+        font-size: 200%;
+    }
+    
+}
