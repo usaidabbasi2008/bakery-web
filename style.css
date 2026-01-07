@@ -32,6 +32,54 @@
     font-size: 400%;
     color: #4b4342;
 }
+.bg3{
+    background-image: url(image/backgrouand3);
+    background-color: black !important;
+    background-color: #eeeeee !important;
+    background-size: cover;
+       background: 
+        linear-gradient(rgba(109, 209, 202, 0.82), rgba(109, 209, 202, 0.916)),
+        url('image/backgrouand3');
+        background-size: auto;
+}
+.fw{
+      font-size: 60px;
+    padding-top: 30px;
+}
+.fo{
+    font-size: 60px;
+    color: #ff91a4;;
+}
+
+
+
+
+.btnc3{
+       border-radius: 30px;
+   
+   
+}
+
+.br{
+    border-radius: 50px;
+    
+}
+.br2{
+    border-radius: 50%;
+    margin-bottom: 100px;
+}
+.bg5{
+    background-image: url(image/bg5.jpg);
+    background-size: cover;
+    
+}
+.bg6{
+    background-image: url(image/bg6.jpg);
+    background-size: cover;
+}
+
+
+
 
 @media screen and (max-width:767px) {
     .fh{
