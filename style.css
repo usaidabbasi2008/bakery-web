@@ -51,7 +51,14 @@
     color: #ff91a4;;
 }
 
+.btnc:hover{
+    background-color: #37a09d ;
+}
 
+.btnc3:hover{
+    color: #4b4342 !important;
+    font-weight: 600;
+}
 
 
 .btnc3{
@@ -152,6 +159,7 @@ margin-top: 200px;
 .li{
     unicode-bidi: isolate;
 }
+
 
 @media screen and (max-width:767px) {
     .fh{
